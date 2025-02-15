@@ -1,1 +1,1 @@
-Sever 1:server.nrozenith.net:14445:0,0,0
+Sever 1:160.30.137.251:14445:0,0,0
